@@ -17,3 +17,13 @@ User
 X1BuilderNFTV2
  ↓
 Marketplace-ready approval system
+
+
+## Marketplace
+
+NFTMarketplaceV2 enables:
+
+- NFT listing
+- NFT purchasing
+- ownership transfer
+- marketplace-ready ERC721 trading
